@@ -44,4 +44,10 @@ TABLA tempdia: Chip_ID TEXT Cantidad INT valor_tem INT valor_hum INT nom_ubic VA
 
 -![](https://github.com/Nicoll-L/Proyecto-Base-de-datos/blob/main/BASE_DATOS.png)
 
+Tambien para el registro de mensajes de las personas que necesitan una asesoria o quieren dejar un mensaje para resolver cualquier inquietud se realizo la siguiente base de datos
+
+TABLA informacion: Nombre VARCHAR Telefono INT Email VARCHAR Mensaje VARCHAR
+
+-![](https://github.com/Nicoll-L/Proyecto-Base-de-datos/blob/main/BASE_DATOS_2.png)
+
 
